@@ -35,4 +35,14 @@ Once activated, use pip to install the project's dependencies:
 pip install -r requirements.txt
 ```
 
+---
+
 ## Building the application
+
+
+---
+
+## Project references
+
+- 
+https://ml-gis-service.com/index.php/2020/10/14/data-science-unsupervised-classification-of-satellite-images-with-k-means-algorithm/
